@@ -31,6 +31,8 @@ packages:
   - aws_appsync_api
   - aws_backup_api
   - aws_batch_api
+  - aws_bedrock_api
+  - aws_bedrock_runtime_api
   - aws_chime_api
   - aws_clouddirectory_api
   - aws_cloudsearchdomain_api

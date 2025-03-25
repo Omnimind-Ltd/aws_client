@@ -26,3 +26,5 @@ doc/api/
 # Generated directories
 generator/apis/
 /all_apis/lib/
+
+.DS_Store

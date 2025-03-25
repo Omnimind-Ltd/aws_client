@@ -20,6 +20,8 @@ const awsCliServiceNames = <String>{
   'autoscaling-plans',
   'backup',
   'batch',
+  'bedrock',
+  'bedrock-runtime',
   'budgets',
   'ce',
   'chime',
